@@ -24,7 +24,7 @@ int main (void){
   }
   converted[textSize-1]='\0';
 
-  printf("\n::The input text has %i characters::\n" ,textSize);
+  printf("\n::The input text has %i characters::\n" ,textSize-1);
   printf("::The converted text is:: \n\n");
 
   puts(converted);
