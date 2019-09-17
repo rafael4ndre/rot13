@@ -1,3 +1,5 @@
+//Code by: Rafael Olivera (NuxMorpheus)
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
